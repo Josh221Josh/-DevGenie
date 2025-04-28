@@ -1,8 +1,15 @@
+![License](https://img.shields.io/github/license/josh221josh/devgenie)
+![CI](https://github.com/josh221josh/devgenie/actions/workflows/python-app.yml/badge.svg)
+
 # DevGenie
 
 DevGenie is an AI-powered command-line assistant for developers, built with OpenAI's Codex and GPT models.
 
-> Created by [Josh221Josh](https://github.com/Josh221Josh)
+**Created by:** [josh221josh](https://github.com/josh221josh)
+
+**Real Name:** Joshua Teyi Tukuh
+
+**Email:** [teyilliongroup006@gmail.com](mailto:teyilliongroup006@gmail.com)
 
 ## Features
 - Generate code snippets
@@ -12,6 +19,6 @@ DevGenie is an AI-powered command-line assistant for developers, built with Open
 
 ## Installation
 ```bash
-git clone https://github.com/Josh221Josh/devgenie.git
+git clone https://github.com/josh221josh/devgenie.git
 cd devgenie
 pip install -e .
