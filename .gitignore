@@ -1,12 +1,15 @@
-# Python
+# Python artifacts
 __pycache__/
 *.py[cod]
 *.egg-info/
 
-# Env
+# Virtual environments
 .env
 .venv/
 
-# IDEs
+# IDE/editor directories
 .vscode/
 .idea/
+
+# OS files
+.DS_Store
